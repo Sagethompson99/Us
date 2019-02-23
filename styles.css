@@ -1,4 +1,4 @@
-@media screen and (max-width: 1922px){
+
  .rectangle {
    position: absolute;
    width: 100%;
@@ -73,8 +73,8 @@
    color: white;
    border-radius: 55px;
 }
-}
 
+@media only screen and (min-width: 1000px){
 .rectangle {
   position: absolute;
   width: 100%;
@@ -149,4 +149,5 @@ a.music:hover {
  border-style: hidden;
  color: white;
  border-radius: 55px;
+}
 }
