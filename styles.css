@@ -1,6 +1,9 @@
 body {
-  background-color: powderblue;
+  background-color: #4dd2ff;
   text-align: center;
+}
+h1 {
+  color: #bfffff;
 }
 
 a:link {
@@ -10,4 +13,13 @@ a:link {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+}
+
+
+a.music {
+ background-color: #bfffff;
+ padding: 10px 20px;
+ color: black;
+ border-radius: 60px;
+
 }
