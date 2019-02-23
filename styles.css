@@ -22,7 +22,7 @@
 
   a:link {
    top: 10px;
-   margin: -0.4%;
+   margin: -0.7%;
    position: relative;
    color: black;
    border-style: solid;
@@ -39,7 +39,7 @@
 
   a:hover, a:active {
    top: 10px;
-   margin: -0.4%;
+   margin: -0.7%;
    position: relative;
    background-color: #4dd2ff;
    color: white;
