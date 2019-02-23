@@ -1,0 +1,13 @@
+body {
+  background-color: powderblue;
+  text-align: center;
+}
+
+a:link {
+  background-color: #bfffff;
+  color: white;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
