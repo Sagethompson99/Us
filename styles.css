@@ -20,8 +20,16 @@
    font-size: 20px;
    padding-left: 4px;
    padding-right: 4px;
+   animation: fadeAnimation .35s ease-in;
 }
-
+  @keyframes fadeAnimation{
+   from{
+     opacity: 0;
+   }
+   to{
+     opacity: 1;
+   }
+}
   a:link {
    top: 10px;
    margin: -0.8%;
@@ -97,8 +105,16 @@ h1 {
 h5 {
   color: #bfffff;
   font-size: 20px;
+  animation: fadeAnimation .35s ease-in;
 }
-
+@keyframes fadeAnimation{
+   from{
+     opacity: 0;
+   }
+   to{
+     opacity: 1;
+   }
+}
 a:link {
   top: 10px;
   margin: -3px;
@@ -142,6 +158,7 @@ a.music {
  border-style: hidden;
  color: black;
  border-radius: 55px;
+ animation: fadeAnimation .3s ease-in;
 }
 
 a.music:hover {
