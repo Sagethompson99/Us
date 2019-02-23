@@ -18,8 +18,8 @@
   h5 {
    color: #bfffff;
    font-size: 20px;
-   padding-left: 2px;
-   padding-right: 2px;
+   padding-left: 4px;
+   padding-right: 4px;
 }
 
   a:link {
@@ -31,7 +31,7 @@
   
    border-bottom-style: hidden;
    border-top-style: hidden;
-   padding: 13px 20px;
+   padding: 13px 25px;
   
    text-align: center;
    font-size: 20px;
@@ -49,7 +49,7 @@
    
    border-bottom-style: hidden;
    border-top-style: hidden;
-   padding: 13px 20px;
+   padding: 13px 25px;
   
    text-align: center;
    font-size: 20px;
