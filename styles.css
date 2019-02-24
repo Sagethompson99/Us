@@ -28,7 +28,6 @@
    }
    to{
      opacity: 1;
-     up: 7px;
    }
 }
   a:link {
@@ -74,7 +73,7 @@
    border-style: hidden;
    color: black;
    border-radius: 55px;
-   animation: fadeAnimation 1.35s ease-in;
+   animation: fadeAnimation 1.5s ease-in;
 }
 
   a.music:hover {
