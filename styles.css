@@ -20,7 +20,7 @@
    font-size: 20px;
    padding-left: 4px;
    padding-right: 4px;
-   animation: fadeAnimation 1.0s ease-in;
+   animation: fadeAnimation .75s ease-in;
 }
   @keyframes fadeAnimation{
    from{
@@ -73,7 +73,7 @@
    border-style: hidden;
    color: black;
    border-radius: 55px;
-   animation: fadeAnimation .75s ease-in;
+   animation: fadeAnimation 1.35s ease-in;
 }
 
   a.music:hover {
