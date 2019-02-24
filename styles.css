@@ -89,7 +89,7 @@
    border-radius: 55px;
 }
 .logo{
- position: static;
+ position: absolute;
  top: 1%;
  right: 80%; 
 }
