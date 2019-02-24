@@ -36,7 +36,7 @@
 }
   a:link {
    top: 10px;
-   left: 50px;
+   left: 40px;
    position: relative;
    color: black;
    border-style: solid;
@@ -55,8 +55,7 @@
 
   a:hover, a:active {
    top: 10px;
-   left: 50px;
-   margin: -0.8%;
+   left: 40px;
    position: relative;
    background-color: #4dd2ff;
    color: white;
@@ -66,6 +65,7 @@
    border-top-style: hidden;
    border-right-style: hidden;
    padding: 11px 16px;
+   border-width: 1px;
   
    text-align: center;
    font-size: 18px;
@@ -95,7 +95,7 @@
   .logo{
    position: absolute;
    top: 1%;
-   left: 3%; 
+   left: 2.5%; 
 }
 }
 
