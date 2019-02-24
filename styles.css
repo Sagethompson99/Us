@@ -36,7 +36,7 @@
 }
   a:link {
    top: 10px;
-   left: 40px;
+   left: 35px;
    position: relative;
    color: black;
    border-style: solid;
@@ -55,7 +55,7 @@
 
   a:hover, a:active {
    top: 10px;
-   left: 40px;
+   left: 35px;
    position: relative;
    background-color: #4dd2ff;
    color: white;
@@ -94,6 +94,8 @@
 }
   .logo{
    position: absolute;
+   width: 40px; 
+   height: 40px;
    top: 1%;
    left: 2.5%; 
 }
