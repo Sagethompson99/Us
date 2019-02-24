@@ -75,8 +75,8 @@
 
 
   a.music {
-   margin: 2px;
-   position: relative;
+   margin: auto;
+   width: 50%;
    background-color: #bfffff;
    padding: 10px 20px;
    border-style: hidden;
