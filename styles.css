@@ -34,7 +34,7 @@
 }
   a:link {
    top: 10px;
-   position: absolute;
+   position: relative;
    color: black;
    border-style: solid;
   
@@ -89,7 +89,7 @@
    border-radius: 55px;
 }
 .logo{
- position: initial;
+ position: static;
  top: 1%;
  right: 80%; 
 }
