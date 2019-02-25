@@ -23,7 +23,7 @@
 }
   a:link {
    top: 12px;
-   left: 25px;
+   left: 24px;
    position: relative;
    color: black;
    border-style: hidden;
@@ -39,7 +39,7 @@
 
   a:hover, a:active, a:visited {
    top: 12px;
-   left: 25px;
+   left: 24px;
    position: relative;
    background-color: #4dd2ff;
    color: white;
@@ -152,7 +152,7 @@ a:hover, a:active, a:visited {
   margin: -3px;
   position: relative;
   background-color: #4dd2ff;
-  color: white;
+  color: black;
   border-style: solid;
   
   border-bottom-style: hidden;
