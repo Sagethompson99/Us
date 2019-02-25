@@ -23,7 +23,7 @@
 }
   a:link {
    top: 12px;
-   left: 28px;
+   left: 25px;
    position: relative;
    color: black;
    border-style: hidden;
@@ -37,9 +37,9 @@
    display: inline-block;
 }
 
-  a:hover, a:active {
+  a:hover, a:active, a:visited {
    top: 12px;
-   left: 28px;
+   left: 25px;
    position: relative;
    background-color: #4dd2ff;
    color: white;
@@ -147,7 +147,7 @@ a:link {
   display: inline-block;
 }
 
-a:hover, a:active {
+a:hover, a:active, a:visited {
   top: 10px;
   margin: -3px;
   position: relative;
