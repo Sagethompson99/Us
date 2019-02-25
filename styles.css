@@ -82,7 +82,7 @@
    border-style: hidden;
    color: black;
    border-radius: 55px;
-   animation: fadeAnimation 1.5s ease-in;
+   animation: fadeAnimation 1.2s ease-in;
 }
 
   a.music:hover {
@@ -99,7 +99,7 @@
    width: 40px; 
    height: 40px;
    top: 1.7%;
-   left: 3%; 
+   left: 2.9%; 
 }
 }
 
