@@ -87,6 +87,10 @@
     color: white;
     border-radius: 55px;
 }
+
+  a.album{
+    left: 0px;
+}
   img.albumPhoto{
     width: 290px;
     height: 370px;
