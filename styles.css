@@ -114,12 +114,12 @@ body {
 }
 h1 {
   color: black;
-  font-size: 70px;
+  font-size: 80px;
 }
 
 h5 {
   color: #bfffff;
-  font-size: 20px;
+  font-size: 25px;
   animation: fadeAnimation .4s ease-in;
 }
 @keyframes fadeAnimation{
@@ -164,7 +164,14 @@ a:hover, a:active, a:visited {
   text-decoration: none;
   display: inline-block;
 }
+img.albumPhoto {
+ width: 290px;
+ height: 370px;
+}
 
+a.album{
+ border-style: hidden;
+}
 
 a.music {
  margin: 2px;
