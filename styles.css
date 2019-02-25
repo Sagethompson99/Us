@@ -23,15 +23,11 @@
 }
   a:link {
    top: 12px;
-   left: 30px;
+   left: 28px;
    position: relative;
    color: black;
-   border-style: solid;
+   border-style: hidden;
   
-   border-bottom-style: hidden;
-   border-top-style: hidden;
-   border-right-style: hidden;
-   border-left-style: hidden;
    padding: 10px 16px; 
    border-width: 2px;
 
@@ -43,16 +39,12 @@
 
   a:hover, a:active {
    top: 12px;
-   left: 30px;
+   left: 28px;
    position: relative;
    background-color: #4dd2ff;
    color: white;
-   border-style: solid;
+   border-style: hidden;
    
-   border-bottom-style: hidden;
-   border-top-style: hidden;
-   border-right-style: hidden;
-   border-left-style: hidden;
    padding: 10px 16px;
    border-width: 2px;
   
@@ -101,7 +93,7 @@
    width: 40px; 
    height: 40px;
    top: 1.7%;
-   left: 2.9%; 
+   left: 3%; 
 }
 }
 
