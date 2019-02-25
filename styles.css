@@ -60,6 +60,20 @@
    display: inline-block;
 }
 
+ h1 {
+   text-align: center;
+   color: black;
+   font-size: 70px;
+}
+  h5 {
+   
+   text-align: center;
+   color: #bfffff;
+   font-size: 20px;
+   padding-left: 4px;
+   padding-right: 4px;
+   animation: fadeAnimation .65s ease-in;
+}
 
   a.music {
    
@@ -79,19 +93,7 @@
    color: white;
    border-radius: 55px;
 }
- h1 {
-   text-align: center;
-   color: black;
-   font-size: 70px;
-}
-  h5 {
-   text-align: center;
-   color: #bfffff;
-   font-size: 20px;
-   padding-left: 4px;
-   padding-right: 4px;
-   animation: fadeAnimation .65s ease-in;
-}
+
   .logo{
    position: absolute;
    width: 40px; 
