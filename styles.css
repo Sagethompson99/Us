@@ -88,9 +88,10 @@
    border-radius: 55px;
 }
 img.albumPhoto{
-  left: 0px;
+  right: 20px;
   width: 290px;
   height: 370px;
+  animation: fadeAnimation .85s ease-in;
 }
   .logo{
    position: absolute;
@@ -171,6 +172,7 @@ a:hover, a:active, a:visited {
 img.albumPhoto {
  width: 290px;
  height: 370px;
+ animation: fadeAnimation .85s ease-in;
 }
 
 a.album{
