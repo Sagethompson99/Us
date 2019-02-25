@@ -70,28 +70,28 @@
 }
 
   a.music {
-   left: 0px;
-   background-color: #bfffff;
-   padding: 10px 20px;
-   border-style: hidden;
-   color: black;
-   border-radius: 55px;
-   animation: fadeAnimation 1.2s ease-in;
+    left: 0px;
+    background-color: #bfffff;
+    padding: 10px 20px;
+    border-style: hidden;
+    color: black;
+    border-radius: 55px;
+    animation: fadeAnimation 1.2s ease-in;
 }
 
   a.music:hover {
-   margin: 2px;
-   background-color: #80dfff;
-   padding: 10px 20px;
-   border-style: hidden;
-   color: white;
-   border-radius: 55px;
+    margin: 2px;
+    background-color: #80dfff;
+    padding: 10px 20px;
+    border-style: hidden;
+    color: white;
+    border-radius: 55px;
 }
-img.albumPhoto{
-  right: 20px;
-  width: 290px;
-  height: 370px;
-  animation: fadeAnimation .85s ease-in;
+  img.albumPhoto{
+    margin: auto;
+    width: 290px;
+    height: 370px;
+    animation: fadeAnimation .85s ease-in;
 }
   .logo{
    position: absolute;
