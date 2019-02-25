@@ -87,7 +87,11 @@
    color: white;
    border-radius: 55px;
 }
-
+img.albumPhoto{
+  left: 0px;
+  width: 290px;
+  height: 370px;
+}
   .logo{
    position: absolute;
    width: 40px; 
