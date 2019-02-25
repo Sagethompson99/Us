@@ -22,7 +22,7 @@
    }
 }
   a:link {
-   top: 10px;
+   top: 12px;
    left: 30px;
    position: relative;
    color: black;
@@ -31,7 +31,7 @@
    border-bottom-style: hidden;
    border-top-style: hidden;
    border-right-style: hidden;
-   padding: 8px 16px; 
+   padding: 10px 16px; 
    border-width: 2px;
 
    text-align: center;
@@ -41,7 +41,7 @@
 }
 
   a:hover, a:active {
-   top: 10px;
+   top: 12px;
    left: 30px;
    position: relative;
    background-color: #4dd2ff;
@@ -51,7 +51,7 @@
    border-bottom-style: hidden;
    border-top-style: hidden;
    border-right-style: hidden;
-   padding: 8px 16px;
+   padding: 10px 16px;
    border-width: 2px;
   
    text-align: center;
@@ -98,7 +98,7 @@
    position: absolute;
    width: 40px; 
    height: 40px;
-   top: 1.6%;
+   top: 1.7%;
    left: 3.1%; 
 }
 }
