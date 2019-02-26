@@ -63,9 +63,9 @@
    position: static;
    text-align: center;
    color: #bfffff;
-   font-size: 20px;
-   margin-left: 5px;
-   margin-right: 5px;
+   font-size: 22px;
+   margin-left: 10px;
+   margin-right: 10px;
    animation: fadeAnimation .65s ease-in;
 }
   h5.picHeading {
@@ -76,6 +76,7 @@
     margin-left: 15px;
     margin-right: 15px;
     margin-bottom: -8px;
+    animation: fadeAnimation .85s ease-in;
 }
   h5.quoteTitle{
     position: static;
@@ -105,6 +106,7 @@
     font-size: 16px;
     margin-top: -3px;
     margin-bottom: -17px;
+    animation: fadeAnimation .75s ease-in;
 }
 
   a.music {
@@ -114,7 +116,7 @@
     border-style: hidden;
     color: black;
     border-radius: 55px;
-    animation: fadeAnimation 1.2s ease-in;
+    animation: fadeAnimation 1.1s ease-in;
 }
 
   a.music:hover {
@@ -137,11 +139,11 @@
   img.albumPhoto{
     width: 280px;
     height: 370px;
-    animation: fadeAnimation .85s ease-in;
+    animation: fadeAnimation 1.0s ease-in;
 }
   img.card {
     padding: 10px;
-    animation: fadeAnimation .85s ease-in;
+    animation: fadeAnimation 1.0s ease-in;
 }
 
   .logo{
