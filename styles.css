@@ -21,7 +21,7 @@
      opacity: 1;
    }
 }
-  a:link {
+  a:link, a:visited {
    top: 12px;
    left: 24px;
    position: relative;
