@@ -91,17 +91,26 @@
   a.album{
     left: 0px;
 }
+
+ a.card{
+   border-style: hidden;
+}
   img.albumPhoto{
     width: 280px;
     height: 370px;
     animation: fadeAnimation .85s ease-in;
 }
+  img.card {
+    padding: 10px;
+    animation: fadeAnimation .85s ease-in;
+}
+
   .logo{
-   position: absolute;
-   width: 40px; 
-   height: 40px;
-   top: 1.7%;
-   left: 3%; 
+    position: absolute;
+    width: 40px; 
+    height: 40px;
+    top: 1.7%;
+    left: 3%; 
 }
 }
 
@@ -130,6 +139,7 @@ h5 {
   font-size: 25px;
   animation: fadeAnimation .4s ease-in;
 }
+
 @keyframes fadeAnimation{
    from{
      opacity: 0;
@@ -178,8 +188,16 @@ img.albumPhoto {
  animation: fadeAnimation .85s ease-in;
 }
 
+img.card {
+ padding: 10px;
+ animation: fadeAnimation .85s ease-in;
+}
+
 a.album{
  border-style: hidden;
+}
+a.card{
+   border-style: hidden;
 }
 
 a.music {
