@@ -63,7 +63,7 @@
    position: static;
    text-align: center;
    color: #bfffff;
-   font-size: 23px;
+   font-size: 24px;
    margin-left: 15px;
    margin-right: 15px;
    animation: fadeAnimation .65s ease-in;
@@ -104,8 +104,8 @@
     position: static;
     text-align: center;
     font-size: 16px;
-    margin-left: 35px;
-    margin-right: 35px;
+    margin-left: 40px;
+    margin-right: 40px;
     margin-top: -3px;
     margin-bottom: -25px;
     animation: fadeAnimation .75s ease-in;
