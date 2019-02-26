@@ -56,8 +56,20 @@
 
  h1 {
    text-align: center;
-   color: black;
+   color: white;
+   margin-top: 20px;
+   margin-bottom: 85px;
    font-size: 70px;
+   animation: fadeAnimation .55s ease-in;
+}
+
+  img.mobileBanner{
+    z-index: -1;
+    margin-top: 23px; 
+    margin-bottom: -150px;
+    width: 100%;
+    height: 180px;
+    animation: fadeAnimation .55s ease-in;
 }
   h5 {
    position: static;
@@ -176,7 +188,12 @@ h1 {
   color: black;
   font-size: 80px;
 }
+img.mobileBanner{
+ position: static; 
+ z-index: -1;
+ display: none;
 
+}
 h5 {
   color: #bfffff;
   font-size: 25px;
