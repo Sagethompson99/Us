@@ -68,6 +68,11 @@
    padding-right: 4px;
    animation: fadeAnimation .65s ease-in;
 }
+  h5.picHeading {
+    position: static;
+    text-align: center;
+    margin-top: -30px;
+}
   h5.quoteTitle{
     position: static;
     text-align: center;
@@ -179,6 +184,12 @@ h5.quote{
    padding-left: 4px;
    padding-right: 4px;
    animation: fadeAnimation .85s ease-in;
+}
+
+h5.picHeading {
+  position: static;
+  text-align: center;
+  margin-top: -30px;
 }
 
 @keyframes fadeAnimation{
