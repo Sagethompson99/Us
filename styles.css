@@ -37,7 +37,7 @@
    display: inline-block;
 }
 
-  a:hover, a:active, a:visited {
+  a:hover {
    top: 12px;
    left: 24px;
    position: relative;
