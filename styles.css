@@ -188,10 +188,12 @@
   img.albumPhoto{
     width: 280px;
     height: 370px;
+    border-radius: 4px;
     animation: fadeAnimation 1.0s ease-in;
 }
   img.card {
     padding: 10px;
+    border-radius: 18px;
     animation: fadeAnimation 1.0s ease-in;
 }
 
@@ -317,11 +319,13 @@ a:hover, a:active, a:visited {
 img.albumPhoto {
  width: 280px;
  height: 370px;
+border-radius: 4px;
  animation: fadeAnimation .85s ease-in;
 }
 
 img.card {
  padding: 10px;
+ border-radius: 20px;
  animation: fadeAnimation .85s ease-in;
 }
 
@@ -329,7 +333,7 @@ a.album{
  border-style: hidden;
 }
 a.card{
-   border-style: hidden;
+ border-style: hidden;
 }
 
 a.music {
