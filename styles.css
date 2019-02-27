@@ -5,11 +5,44 @@
    top: 0;
    width: 100%;
    height: 65px;
-   background: #bfffff;
+   background: #ffffff;
+}
+  div.pageCard {
+  position: absolute;
+  margin-left: 17px;
+  margin-right: 17px;
+  margin-top: -25px;
+  border-radius: 15px;
+  background-color: #4dd2ff;
+  z-index: -2;
+  width: 91%;
+  height: 60%;
+}
+  div.picsPageCard {
+  position: absolute;
+  margin-left: 17px;
+  margin-top: -25px;
+  border-radius: 15px;
+  background-color: #4dd2ff;
+  z-index: -2;
+  width: 91%;
+  height: 200%;
+}
+  div.memoriesPageCard{
+   position: absolute;
+   margin-left: 17px;
+   margin-right: 17px;
+   margin-top: -25px;
+   border-radius: 15px;
+   background-color: #4dd2ff;
+   z-index: -2;
+   width: 91%;
+   height: 105%;
 }
   body {
+   height: 100%;
    margin: 0;
-   background-color: #4dd2ff;
+   background-color: #7aedff;
    text-align: center;
 }
 
@@ -58,7 +91,7 @@
    text-align: center;
    color: white;
    margin-top: 20px;
-   margin-bottom: 85px;
+   margin-bottom: 100px;
    font-size: 70px;
    animation: fadeAnimation .55s ease-in;
 }
@@ -71,13 +104,17 @@
     height: 180px;
     animation: fadeAnimation .55s ease-in;
 }
+
+  img.desktopBanner{
+    display: none;
+  }
   h5 {
    position: static;
    text-align: center;
-   color: #bfffff;
+   color: white;
    font-size: 24px;
-   margin-left: 15px;
-   margin-right: 15px;
+   margin-left: 45px;
+   margin-right: 45px;
    animation: fadeAnimation .65s ease-in;
 }
   h5.picHeading {
@@ -93,7 +130,6 @@
   h5.quoteTitle{
     position: static;
     text-align: center;
-    color: #bfffff;
     font-size: 27px;
     padding-top: 20px;
     padding-left: 4px;
@@ -105,7 +141,6 @@
   h5.quote{
     position: static;
     text-align: center;
-    color: #bfffff;
     font-size: 20px;
     padding-left: 4px;
     padding-right: 4px;
@@ -192,8 +227,15 @@ img.mobileBanner{
  position: static; 
  z-index: -1;
  display: none;
-
 }
+
+img.desktopBanner{
+ z-index: -1;
+ margin-top: 36px;
+ width: 110%;
+ hieght: 195px;
+}
+
 h5 {
   color: #bfffff;
   font-size: 25px;
