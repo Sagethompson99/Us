@@ -3,7 +3,7 @@
    position: sticky;
    position: -webkit-sticky; /* Safari */
    top: 10px;
-   z-index: 1;
+   z-index: 0;
    width: 100%;
    height: 45px;
    background: #ffffff;
@@ -106,7 +106,7 @@ html {
     top: 0;
     margin-top: -60px;
     width: 100%;
-    height: 230px;
+    height: 240px;
     animation: fadeAnimation .55s ease-in;
 }
 
@@ -114,6 +114,7 @@ html {
     display: none;
   }
   h5 {
+   z-index: 1;
    position: static;
    text-align: center;
    color: black;
