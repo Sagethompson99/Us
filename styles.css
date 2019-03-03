@@ -97,9 +97,21 @@ html {
    margin-top: -190px;
    margin-bottom: 90px;
    font-size: 6rem;
-   animation: fadeAnimation 1s ease-in;
+   animation: headingAnimation 1s ease-in;
+}
+@keyframes headingAnimation {
+   from {
+    opacity: 0;
+    margin-top: -175px;
+    margin-bottom: 75px;
 }
 
+   to {
+    opacity: 1;
+    margin-top: -190px;
+    margin-bottom: 90px;
+}
+}
   img.mobileBanner{
     z-index: -6;
     position: sticky;
