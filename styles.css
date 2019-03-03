@@ -94,9 +94,9 @@ html {
    text-align: center;
    z-index: -6;
    color: white;
-   margin-top: -180px;
+   margin-top: -190px;
    margin-bottom: 90px;
-   font-size: 80px;
+   font-size: 6rem;
    animation: fadeAnimation 1s ease-in;
 }
 
