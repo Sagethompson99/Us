@@ -96,7 +96,7 @@ html {
    color: white;
    margin-top: -190px;
    margin-bottom: 90px;
-   font-size: 6rem;
+   font-size: 5.5rem;
    animation: headingAnimation 1s ease-in;
 }
 @keyframes headingAnimation {
