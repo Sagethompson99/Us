@@ -91,14 +91,14 @@ html {
 }
 
  h1 {
-   font-weight: bold;
+   font-weight: 100;
    text-align: center;
    z-index: -6;
    color: white;
    margin-top: -190px;
    margin-bottom: 90px;
    font-size: 5.5rem;
-   animation: headingAnimation 1s ease-in;
+   animation: headingAnimation 0.8s ease-in;
 }
 @keyframes headingAnimation {
    from {
