@@ -78,14 +78,14 @@ html {
   a:hover {
    z-index: 1;
    top: 10px;
-   left: 27px;
+   left: 0px;
    position: sticky;
    position: -webkit-sticky; /* Safari */
    color: black;
    border-style: hidden;
    padding: 10px 10px; 
    text-align: center;
-   font-size: 20px;
+   font-size: 21px;
    text-decoration: none;
    display: inline-block;
 }
