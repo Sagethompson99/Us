@@ -62,7 +62,7 @@ html {
   a:link, a:visited {
    z-index: 1;
    top: 13px;
-   left: 10px;
+   left: 0px;
    position: sticky;
    position: -webkit-sticky; /* Safari */
    color: black;
