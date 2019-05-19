@@ -83,9 +83,9 @@ html {
    position: -webkit-sticky; /* Safari */
    color: black;
    border-style: hidden;
-   padding: 10px 10px; 
+   padding: 9px 9px; 
    text-align: center;
-   font-size: 21px;
+   font-size: 19px;
    text-decoration: none;
    display: inline-block;
 }
